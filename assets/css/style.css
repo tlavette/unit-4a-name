@@ -1,0 +1,25 @@
+#box {
+
+    border: 10px solid rgb(25, 16, 146);
+    height: 300px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    
+
+
+}
+
+#scoreboard{
+    border: 10px solid red;
+    color: green;
+    margin-left:80px;
+    margin-top: 10px;
+    height: 100px;
+    width: 300px;
+    align-content: center;
+
+
+}
